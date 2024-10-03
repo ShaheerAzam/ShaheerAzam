@@ -1,6 +1,6 @@
 # Hi there! I'm Muhammad Shaheer 👋
 
-🚀 **Full Stack Developer | Software Engineer | AR Enthusiast | Cloud Architect**
+🚀 **Full Stack Developer | Software Engineer | AR Enthusiast | Cross-Platform App Developer**
 
 Welcome to my GitHub! I am a skilled Software Engineer with expertise in **React**, **Flutter**, **Node.js**, and cloud-based architectures. With experience in developing e-commerce platforms, automotive applications, and augmented reality systems, I focus on delivering high-quality user experiences and scalable solutions.
 
