@@ -78,6 +78,10 @@ Welcome to my GitHub! I am a skilled Software Engineer with expertise in **React
 
 [![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerAzam&show_icons=true&theme=radical)](https://github.com/ShaheerAzam)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerAzam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📫 Let's Connect:
