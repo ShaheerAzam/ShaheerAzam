@@ -74,13 +74,16 @@ Welcome to my GitHub! I am a skilled Software Engineer with expertise in **React
 
 ---
 
-## 📈 GitHub Stats:
 
-[![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerAzam&show_icons=true&theme=radical)](https://github.com/ShaheerAzam)
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerAzam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaheerazam&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaheerazam&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaheerazam&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
+</div>
 
 ---
 
